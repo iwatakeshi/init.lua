@@ -1,0 +1,7 @@
+require('settings/appearances')
+require('settings/indents')
+require('settings/scrolls')
+require('settings/remaps')
+require('settings/packer')
+require('settings/themes')
+require('settings/lsp')
