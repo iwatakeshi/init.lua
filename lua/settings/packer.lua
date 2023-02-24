@@ -45,7 +45,7 @@ return require('packer').startup(function(use)
     
 use {
   "folke/trouble.nvim",
-   -- You may needs fonts from https://www.nerdfonts.com/#home
+   -- You may need fonts from https://www.nerdfonts.com/#home
   requires = "nvim-tree/nvim-web-devicons",
   config = function()
     require("trouble").setup {
